@@ -341,7 +341,7 @@ img {
   padding: 20px 24px;
 }
 
-.card:nth-last-child(3n) {
+.card:nth-child(3n) {
   margin-right: 0;
 }
 
