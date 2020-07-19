@@ -63,6 +63,37 @@ img {
           align-items: center;
 }
 
+/* Лого INDEX и PORTFOLIO*/
+.logo {
+  display: block;
+  margin-right: 85px;
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+}
+
+.logo-web {
+  color: #2196f3;
+}
+
+.logo-studio {
+  color: #212121;
+}
+
+.logo-footer {
+  margin-bottom: 20px;
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  text-decoration: none;
+}
+
+.logo-studio-footer {
+  color: #ffffff;
+}
+
 /* Хэдер INDEX и PORTFOLIO*/
 .nav {
   font-weight: 500;
@@ -115,37 +146,6 @@ img {
   padding-bottom: 50px;
   font-size: 36px;
   line-height: 1.17;
-}
-
-/* Лого INDEX и PORTFOLIO*/
-.logo {
-  display: block;
-  margin-right: 85px;
-  font-family: Raleway;
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 1.19;
-}
-
-.logo-web {
-  color: #2196f3;
-}
-
-.logo-studio {
-  color: #212121;
-}
-
-.logo-footer {
-  margin-bottom: 20px;
-  font-family: Raleway;
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 1.19;
-  text-decoration: none;
-}
-
-.logo-studio-footer {
-  color: #ffffff;
 }
 
 /* Навигация */

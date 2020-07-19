@@ -1,3 +1,36 @@
+/* Лого INDEX и PORTFOLIO*/
+
+.logo {
+  display: block;
+  margin-right: 85px;
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+
+  &-web {
+    color: $accent-color;
+  }
+
+  &-studio {
+    color: $title-text-color-primary;
+  }
+
+  &-footer {
+    margin-bottom: 20px;
+
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    text-decoration: none;
+  }
+
+  &-studio-footer {
+    color: $primary-white-color;
+  }
+}
+
 /* Хэдер INDEX и PORTFOLIO*/
 .nav {
   font-weight: 500;
@@ -63,40 +96,6 @@
 
   font-size: 36px;
   line-height: 1.17;
-}
-
-/* Лого INDEX и PORTFOLIO*/
-
-.logo {
-  display: block;
-  margin-right: 85px;
-
-  font-family: Raleway;
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 1.19;
-
-  &-web {
-    color: $accent-color;
-  }
-
-  &-studio {
-    color: $title-text-color-primary;
-  }
-
-  &-footer {
-    margin-bottom: 20px;
-
-    font-family: Raleway;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 1.19;
-    text-decoration: none;
-  }
-
-  &-studio-footer {
-    color: $primary-white-color;
-  }
 }
 
 /* Навигация */
